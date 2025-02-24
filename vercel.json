@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "https://beat-cancer-sigma.vercel.app",
+        "destination": "https://www.beat-cancer-sigma.vercel.app",
+        "permanent": true
+      }
+    ]
+  }
+  
